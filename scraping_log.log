@@ -1,0 +1,311 @@
+2023-08-17 15:37:32,301 - INFO: Starting iteration 1
+2023-08-17 15:37:50,436 - ERROR: An error occurred: "['S.No.'] not found in axis"
+2023-08-17 15:37:50,437 - INFO: Iteration 1 completed in 18.13629126548767 seconds
+2023-08-17 15:37:50,438 - INFO: Starting iteration 2
+2023-08-17 15:38:08,214 - ERROR: An error occurred: "['S.No.'] not found in axis"
+2023-08-17 15:38:08,215 - INFO: Iteration 2 completed in 17.776966333389282 seconds
+2023-08-17 15:38:10,325 - INFO: Total time taken for all iterations: 35.91325759887695 seconds
+2023-08-17 15:38:40,294 - INFO: Starting iteration 1
+2023-08-17 15:38:56,268 - INFO: Iteration 1 completed in 15.97440481185913 seconds
+2023-08-17 15:38:56,268 - INFO: Starting iteration 2
+2023-08-17 15:39:15,498 - INFO: Iteration 2 completed in 19.229482650756836 seconds
+2023-08-17 15:39:17,648 - INFO: Total time taken for all iterations: 35.20388746261597 seconds
+2023-08-17 15:54:15,429 - INFO: Starting iteration 1
+2023-08-17 15:54:20,889 - INFO: Diary Number: 240110500134
+2023-08-17 15:54:24,255 - INFO: Data successfully saved to test1/outputs/output.csv
+2023-08-17 15:54:24,392 - INFO: Iteration 1 completed in 8.961708784103394 seconds
+2023-08-17 15:54:24,393 - INFO: Starting iteration 2
+2023-08-17 15:54:29,769 - INFO: Diary Number: 240110500135
+2023-08-17 15:54:33,888 - INFO: Data successfully saved to test1/outputs/output.csv
+2023-08-17 15:54:34,022 - INFO: Iteration 2 completed in 9.628188848495483 seconds
+2023-08-17 15:54:36,153 - INFO: Total time taken for all iterations: 18.589897632598877 seconds
+2023-08-17 16:01:32,508 - INFO: Starting iteration 1
+2023-08-17 16:01:36,721 - INFO: Diary Number: 240110500135
+2023-08-17 16:01:40,224 - INFO: Data successfully saved to test1/outputs/output.csv
+2023-08-17 16:01:40,331 - INFO: Clicked on status link.
+2023-08-17 16:01:46,924 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 16:01:47,403 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 16:01:47,408 - INFO: Iteration 1 completed in 14.899923324584961 seconds
+2023-08-17 16:01:47,408 - INFO: Starting iteration 2
+2023-08-17 16:01:53,534 - INFO: Diary Number: 240110500136
+2023-08-17 16:01:58,400 - INFO: Data successfully saved to test1/outputs/output.csv
+2023-08-17 16:01:58,498 - INFO: Clicked on status link.
+2023-08-17 16:02:04,429 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 16:02:05,091 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 16:02:05,098 - INFO: Iteration 2 completed in 17.690633535385132 seconds
+2023-08-17 16:02:07,265 - INFO: Total time taken for all iterations: 32.59055685997009 seconds
+2023-08-17 16:03:43,104 - INFO: Starting iteration 1
+2023-08-17 16:03:48,023 - ERROR: Script interrupted by the user.
+2023-08-17 16:03:52,069 - WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000289EAABADA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae5e39a8e1fd16b85976963657bea4bf
+2023-08-17 16:03:56,118 - WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000289EAABB130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae5e39a8e1fd16b85976963657bea4bf
+2023-08-17 16:04:00,190 - WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000289EAABB250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae5e39a8e1fd16b85976963657bea4bf
+2023-08-17 16:04:08,332 - INFO: Total time taken for all iterations: 0 seconds
+2023-08-17 16:28:08,071 - INFO: Starting iteration 1
+2023-08-17 16:28:13,165 - INFO: Diary Number: 240110500137
+2023-08-17 16:28:16,360 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 16:28:16,483 - INFO: Clicked on status link.
+2023-08-17 16:28:21,675 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 16:28:22,049 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 16:28:22,050 - INFO: Iteration 1 completed in 13.97671914100647 seconds
+2023-08-17 16:28:22,051 - INFO: Starting iteration 2
+2023-08-17 16:28:27,275 - INFO: Diary Number: 240110500138
+2023-08-17 16:28:32,324 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 16:28:32,451 - INFO: Clicked on status link.
+2023-08-17 16:28:38,921 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 16:28:39,389 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 16:28:39,390 - INFO: Iteration 2 completed in 17.33858561515808 seconds
+2023-08-17 16:28:41,553 - INFO: Total time taken for all iterations: 31.31530475616455 seconds
+2023-08-17 16:43:33,776 - INFO: Starting iteration 1
+2023-08-17 16:43:38,204 - INFO: Diary Number: 240110500138
+2023-08-17 16:43:42,948 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 16:43:43,057 - INFO: Clicked on status link.
+2023-08-17 16:43:48,990 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 16:43:49,565 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 16:43:49,565 - INFO: Iteration 1 completed in 15.788187265396118 seconds
+2023-08-17 16:43:49,568 - INFO: Starting iteration 2
+2023-08-17 16:43:54,371 - INFO: Diary Number: 240110500139
+2023-08-17 16:44:01,855 - INFO: No data found. Skipping current table.
+2023-08-17 16:44:01,868 - INFO: status link not found.
+2023-08-17 16:44:01,868 - INFO: Iteration 2 completed in 12.299397706985474 seconds
+2023-08-17 16:44:04,114 - INFO: Total time taken for all iterations: 28.087584972381592 seconds
+2023-08-17 20:56:27,221 - INFO: Starting iteration 1
+2023-08-17 20:56:34,760 - INFO: Diary Number: 240110500139
+2023-08-17 20:56:45,902 - INFO: No data found. Skipping current table.
+2023-08-17 20:56:45,902 - INFO: Iteration 1 completed in 18.680164337158203 seconds
+2023-08-17 20:56:45,907 - INFO: Starting iteration 2
+2023-08-17 20:56:55,763 - INFO: Diary Number: 240110500140
+2023-08-17 20:57:07,490 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 20:57:07,879 - INFO: Clicked on status link.
+2023-08-17 20:57:19,250 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 20:57:20,023 - INFO: Iteration 2 completed in 34.11575126647949 seconds
+2023-08-17 20:57:22,231 - INFO: Total time taken for all iterations: 52.795915603637695 seconds
+2023-08-17 20:59:09,873 - INFO: Starting iteration 1
+2023-08-17 20:59:19,902 - INFO: Diary Number: 240110500140
+2023-08-17 20:59:28,546 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 20:59:28,808 - INFO: Clicked on status link.
+2023-08-17 20:59:42,399 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 20:59:43,093 - INFO: Iteration 1 completed in 33.21987819671631 seconds
+2023-08-17 20:59:43,097 - INFO: Starting iteration 2
+2023-08-17 20:59:53,996 - INFO: Diary Number: 240110500141
+2023-08-17 21:00:03,047 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:00:03,312 - INFO: Clicked on status link.
+2023-08-17 21:00:18,210 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:00:21,086 - INFO: Iteration 2 completed in 37.988916635513306 seconds
+2023-08-17 21:00:23,321 - INFO: Total time taken for all iterations: 71.20879483222961 seconds
+2023-08-17 21:02:29,025 - INFO: Starting iteration 1
+2023-08-17 21:02:33,592 - ERROR: Script interrupted by the user.
+2023-08-17 21:02:37,643 - WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C535AA6500>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b2052d89a35da596e23e5b6e776b735
+2023-08-17 21:02:41,708 - WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C535AA7C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b2052d89a35da596e23e5b6e776b735
+2023-08-17 21:02:45,790 - WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C535AA7B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b2052d89a35da596e23e5b6e776b735
+2023-08-17 21:02:53,918 - INFO: Total time taken for all iterations: 0 seconds
+2023-08-17 21:03:40,296 - INFO: Starting iteration 1
+2023-08-17 21:03:58,647 - INFO: Diary Number: 240110500141
+2023-08-17 21:04:26,076 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:04:26,357 - INFO: Clicked on status link.
+2023-08-17 21:05:13,033 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:05:16,225 - INFO: Iteration 1 completed in 95.92890882492065 seconds
+2023-08-17 21:05:16,228 - INFO: Starting iteration 2
+2023-08-17 21:05:52,946 - INFO: Diary Number: 240110500142
+2023-08-17 21:06:22,024 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:06:22,208 - INFO: Clicked on status link.
+2023-08-17 21:06:49,396 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:06:52,386 - INFO: Iteration 2 completed in 96.15744400024414 seconds
+2023-08-17 21:06:54,671 - INFO: Total time taken for all iterations: 192.0863528251648 seconds
+2023-08-17 21:12:08,375 - INFO: Starting iteration 1
+2023-08-17 21:12:23,648 - INFO: Diary Number: 240110500142
+2023-08-17 21:12:38,069 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:12:38,314 - INFO: Clicked on status link.
+2023-08-17 21:13:00,104 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:13:03,016 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:13:03,016 - INFO: Iteration 1 completed in 54.64164924621582 seconds
+2023-08-17 21:13:03,028 - INFO: Starting iteration 2
+2023-08-17 21:14:02,238 - INFO: Diary Number: 240110500143
+2023-08-17 21:14:50,780 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:14:50,967 - INFO: Clicked on status link.
+2023-08-17 21:15:06,946 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:15:07,930 - INFO: Iteration 2 completed in 124.9023642539978 seconds
+2023-08-17 21:15:10,280 - INFO: Total time taken for all iterations: 179.54401350021362 seconds
+2023-08-17 21:15:43,132 - INFO: Starting iteration 1
+2023-08-17 21:15:51,263 - INFO: Diary Number: 240110500143
+2023-08-17 21:15:57,958 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:15:58,268 - INFO: Clicked on status link.
+2023-08-17 21:16:10,926 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:16:11,778 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:16:11,778 - INFO: Iteration 1 completed in 28.64605140686035 seconds
+2023-08-17 21:16:11,786 - INFO: Starting iteration 2
+2023-08-17 21:16:28,786 - INFO: Diary Number: 240110500144
+2023-08-17 21:17:32,722 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:17:32,926 - INFO: Clicked on status link.
+2023-08-17 21:18:05,073 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:18:07,707 - INFO: Iteration 2 completed in 115.92108798027039 seconds
+2023-08-17 21:18:10,206 - INFO: Total time taken for all iterations: 144.56713938713074 seconds
+2023-08-17 21:19:20,223 - INFO: Starting iteration 1
+2023-08-17 21:19:26,850 - INFO: Diary Number: 240110500144
+2023-08-17 21:19:32,092 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:19:32,388 - INFO: Clicked on status link.
+2023-08-17 21:19:46,547 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:19:49,227 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:19:49,228 - INFO: Iteration 1 completed in 29.005423069000244 seconds
+2023-08-17 21:19:49,230 - INFO: Starting iteration 2
+2023-08-17 21:20:09,778 - INFO: Diary Number: 240110500145
+2023-08-17 21:20:31,502 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:20:31,669 - INFO: Clicked on status link.
+2023-08-17 21:20:46,353 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:20:47,718 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:20:47,718 - INFO: Iteration 2 completed in 58.486791372299194 seconds
+2023-08-17 21:20:49,987 - INFO: Total time taken for all iterations: 87.49221444129944 seconds
+2023-08-17 21:21:26,103 - INFO: Starting iteration 1
+2023-08-17 21:21:35,075 - INFO: Diary Number: 240110500145
+2023-08-17 21:21:41,530 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:21:41,727 - INFO: Clicked on status link.
+2023-08-17 21:21:53,574 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:21:54,942 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:21:54,942 - INFO: Iteration 1 completed in 28.836188793182373 seconds
+2023-08-17 21:21:54,951 - INFO: Starting iteration 2
+2023-08-17 21:22:01,389 - INFO: Diary Number: 240110500146
+2023-08-17 21:22:10,409 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:22:10,643 - INFO: Clicked on status link.
+2023-08-17 21:22:39,285 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:22:40,415 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:22:40,417 - INFO: Iteration 2 completed in 45.466089963912964 seconds
+2023-08-17 21:22:42,837 - INFO: Total time taken for all iterations: 74.30227875709534 seconds
+2023-08-17 21:23:39,506 - INFO: Starting iteration 1
+2023-08-17 21:23:49,386 - INFO: Diary Number: 240110500146
+2023-08-17 21:23:58,492 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:23:58,706 - INFO: Clicked on status link.
+2023-08-17 21:24:09,364 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:24:15,377 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:24:15,380 - INFO: Iteration 1 completed in 35.87042021751404 seconds
+2023-08-17 21:24:15,383 - INFO: Starting iteration 2
+2023-08-17 21:24:25,826 - INFO: Diary Number: 240110500147
+2023-08-17 21:24:36,271 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:24:36,459 - INFO: Clicked on status link.
+2023-08-17 21:24:50,744 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:25:01,836 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:25:01,836 - INFO: Iteration 2 completed in 46.45216083526611 seconds
+2023-08-17 21:25:04,182 - INFO: Total time taken for all iterations: 82.32258105278015 seconds
+2023-08-17 21:25:29,351 - INFO: Starting iteration 1
+2023-08-17 21:25:37,880 - INFO: Diary Number: 240110500049
+2023-08-17 21:25:44,361 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:25:44,594 - INFO: Clicked on status link.
+2023-08-17 21:26:01,902 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-17 21:26:16,785 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-17 21:26:16,785 - INFO: Iteration 1 completed in 47.434332609176636 seconds
+2023-08-17 21:26:16,794 - INFO: Starting iteration 2
+2023-08-17 21:26:27,036 - INFO: Diary Number: 240110500050
+2023-08-17 21:26:35,434 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-17 21:26:35,648 - INFO: Clicked on status link.
+2023-08-17 21:27:37,694 - INFO: Iteration 2 completed in 80.90021896362305 seconds
+2023-08-17 21:27:39,899 - INFO: Total time taken for all iterations: 128.33455157279968 seconds
+2023-08-17 21:27:54,500 - INFO: Starting iteration 1
+2023-08-17 21:27:55,109 - INFO: Iteration 1 completed in 0.6088452339172363 seconds
+2023-08-17 21:27:55,111 - INFO: Starting iteration 2
+2023-08-17 21:27:55,342 - INFO: Iteration 2 completed in 0.2282719612121582 seconds
+2023-08-17 21:27:57,543 - INFO: Total time taken for all iterations: 0.8371171951293945 seconds
+2023-08-17 21:29:33,647 - INFO: Starting iteration 1
+2023-08-17 21:29:46,795 - INFO: Diary Number: 240110500051
+2023-08-17 21:30:04,131 - INFO: No data found. Skipping current table.
+2023-08-17 21:30:04,131 - INFO: Iteration 1 completed in 30.484261512756348 seconds
+2023-08-17 21:30:04,132 - INFO: Starting iteration 2
+2023-08-17 21:30:13,869 - INFO: Diary Number: 240110500052
+2023-08-17 21:30:21,265 - INFO: No data found. Skipping current table.
+2023-08-17 21:30:21,266 - INFO: Iteration 2 completed in 17.133471250534058 seconds
+2023-08-17 21:30:23,678 - INFO: Total time taken for all iterations: 47.617732763290405 seconds
+2023-08-18 09:05:47,761 - INFO: Starting iteration 1
+2023-08-18 09:05:52,393 - INFO: Diary Number: 240110500052
+2023-08-18 09:05:55,761 - INFO: No data found. Skipping current table.
+2023-08-18 09:05:55,761 - INFO: Iteration 1 completed in 7.9983789920806885 seconds
+2023-08-18 09:05:55,761 - INFO: Starting iteration 2
+2023-08-18 09:05:58,467 - INFO: Diary Number: 240110500053
+2023-08-18 09:06:01,917 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:06:02,126 - INFO: Clicked on status link.
+2023-08-18 09:06:06,617 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:06:08,091 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:06:08,093 - INFO: Iteration 2 completed in 12.329270362854004 seconds
+2023-08-18 09:06:10,325 - INFO: Total time taken for all iterations: 20.327649354934692 seconds
+2023-08-18 09:15:25,489 - INFO: Starting iteration 1
+2023-08-18 09:15:30,971 - INFO: Diary Number: 240110500053
+2023-08-18 09:15:37,533 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:15:37,953 - INFO: Clicked on status link.
+2023-08-18 09:15:47,113 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:15:48,985 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:15:48,985 - INFO: Iteration 1 completed in 23.49542784690857 seconds
+2023-08-18 09:15:48,985 - INFO: Starting iteration 2
+2023-08-18 09:15:56,881 - INFO: Diary Number: 240110500054
+2023-08-18 09:16:03,939 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:16:04,067 - INFO: Clicked on status link.
+2023-08-18 09:16:12,689 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:16:14,551 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:16:14,557 - INFO: Iteration 2 completed in 25.57227659225464 seconds
+2023-08-18 09:16:16,858 - INFO: Total time taken for all iterations: 49.06770443916321 seconds
+2023-08-18 09:17:45,660 - INFO: Starting iteration 1
+2023-08-18 09:17:55,221 - INFO: Diary Number: 240110500054
+2023-08-18 09:18:01,066 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:18:01,325 - INFO: Clicked on status link.
+2023-08-18 09:18:18,799 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:18:20,954 - INFO: Iteration 1 completed in 35.29180335998535 seconds
+2023-08-18 09:18:20,954 - INFO: Starting iteration 2
+2023-08-18 09:18:29,313 - INFO: Diary Number: 240110500055
+2023-08-18 09:18:37,915 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:18:38,085 - INFO: Clicked on status link.
+2023-08-18 09:18:45,081 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:18:45,626 - INFO: Iteration 2 completed in 24.672205209732056 seconds
+2023-08-18 09:18:47,966 - INFO: Total time taken for all iterations: 59.96400856971741 seconds
+2023-08-18 09:19:46,964 - INFO: Starting iteration 1
+2023-08-18 09:19:52,698 - INFO: Diary Number: 240110500055
+2023-08-18 09:19:57,608 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:19:57,846 - INFO: Clicked on status link.
+2023-08-18 09:20:06,585 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:20:07,261 - ERROR: Error while scraping Order/Judgment table: name 'd3' is not defined
+2023-08-18 09:20:07,261 - INFO: Iteration 1 completed in 20.29718255996704 seconds
+2023-08-18 09:20:07,261 - INFO: Starting iteration 2
+2023-08-18 09:20:20,470 - INFO: Diary Number: 240110500056
+2023-08-18 09:20:29,015 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:20:29,290 - INFO: Clicked on status link.
+2023-08-18 09:20:36,770 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:20:37,081 - ERROR: Error while scraping Order/Judgment table: local variable 'row_data' referenced before assignment
+2023-08-18 09:20:37,081 - INFO: Iteration 2 completed in 29.819549798965454 seconds
+2023-08-18 09:20:39,599 - INFO: Total time taken for all iterations: 50.116732358932495 seconds
+2023-08-18 09:23:28,474 - INFO: Starting iteration 1
+2023-08-18 09:23:34,336 - INFO: Diary Number: 240110500056
+2023-08-18 09:23:38,168 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:23:38,463 - INFO: Clicked on status link.
+2023-08-18 09:23:43,520 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:23:43,960 - INFO: Order/Judgment table is empty. Not saving to CSV.
+2023-08-18 09:23:43,960 - INFO: Iteration 1 completed in 15.48566746711731 seconds
+2023-08-18 09:23:43,967 - INFO: Starting iteration 2
+2023-08-18 09:23:50,107 - INFO: Diary Number: 240110500057
+2023-08-18 09:23:56,084 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:23:56,328 - INFO: Clicked on status link.
+2023-08-18 09:24:04,186 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:24:04,652 - INFO: Order/Judgment table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:24:04,652 - INFO: Iteration 2 completed in 20.685229301452637 seconds
+2023-08-18 09:24:07,076 - INFO: Total time taken for all iterations: 36.170896768569946 seconds
+2023-08-18 09:29:50,971 - INFO: Starting iteration 1
+2023-08-18 09:29:56,004 - INFO: Diary Number: 240110500057
+2023-08-18 09:29:59,195 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:29:59,439 - INFO: Clicked on status link.
+2023-08-18 09:30:06,924 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:30:07,559 - INFO: Order/Judgement table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:30:07,563 - INFO: Iteration 1 completed in 16.592501163482666 seconds
+2023-08-18 09:30:07,566 - INFO: Starting iteration 2
+2023-08-18 09:30:13,867 - ERROR: 
+Error occured while scraping main table: Message: Cannot locate option with value: ahmedabad; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2023-08-18 09:30:13,871 - INFO: Iteration 2 completed in 6.304440021514893 seconds
+2023-08-18 09:30:16,117 - INFO: Total time taken for all iterations: 22.89694118499756 seconds
+2023-08-18 09:31:03,651 - INFO: Starting iteration 1
+2023-08-18 09:31:08,507 - INFO: Diary Number: 240110500058
+2023-08-18 09:31:11,802 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:31:12,099 - INFO: Clicked on status link.
+2023-08-18 09:31:17,259 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:31:17,895 - INFO: Order/Judgement table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:31:17,895 - INFO: Iteration 1 completed in 14.240431785583496 seconds
+2023-08-18 09:31:17,895 - INFO: Starting iteration 2
+2023-08-18 09:31:24,541 - INFO: Diary Number: 240110500059
+2023-08-18 09:31:29,441 - INFO: Data from main table successfully saved to test1/outputs/output.csv
+2023-08-18 09:31:29,653 - INFO: Clicked on status link.
+2023-08-18 09:31:35,300 - INFO: Data from details page saved to test1/outputs/details.csv
+2023-08-18 09:31:36,409 - INFO: Order/Judgement table data (including links) saved to test1/outputs/order_judgement.csv
+2023-08-18 09:31:36,409 - INFO: Iteration 2 completed in 18.514286518096924 seconds
+2023-08-18 09:31:38,823 - INFO: Total time taken for all iterations: 32.75471830368042 seconds
