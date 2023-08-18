@@ -333,3 +333,27 @@ Error occured while scraping main table: Message: Cannot locate option with valu
 2023-08-18 11:20:52,536 - ERROR: Error occured while scraping main table: name 'scrape_order_judgment_table' is not defined
 2023-08-18 11:20:52,537 - INFO: Iteration 2 completed in 13.839369773864746 seconds
 2023-08-18 11:20:54,814 - INFO: Total time taken for all iterations: 21.48920965194702 seconds
+2023-08-18 11:52:01,248 - INFO: Starting iteration 1
+2023-08-18 11:52:06,678 - INFO: Diary Number: 240110500061
+2023-08-18 11:52:10,195 - INFO: Data from main table successfully saved to outputs/output.csv
+2023-08-18 11:52:10,416 - INFO: Clicked on status link.
+2023-08-18 11:52:16,712 - INFO: Data from details page saved to outputs/details.csv
+2023-08-18 11:52:19,046 - INFO: Order/Judgement table data (including links) saved to outputs/order_judgement.csv
+2023-08-18 11:52:19,054 - INFO: Iteration 1 completed in 17.81 seconds
+2023-08-18 11:52:19,054 - INFO: Starting iteration 2
+2023-08-18 11:52:25,093 - INFO: Diary Number: 240110500062
+2023-08-18 11:52:30,555 - INFO: No data found. Skipping current table.
+2023-08-18 11:52:30,555 - INFO: Iteration 2 completed in 11.5 seconds
+2023-08-18 11:52:32,803 - INFO: Total time taken for all iterations: 29.31 seconds
+2023-08-18 11:56:04,081 - INFO: Starting iteration 1
+2023-08-18 11:56:09,885 - INFO: Diary Number: 240110500062
+2023-08-18 11:56:15,503 - INFO: No data found with this Diary Number.
+2023-08-18 11:56:15,503 - INFO: Iteration 1 completed in 11.42 seconds
+2023-08-18 11:56:15,514 - INFO: Starting iteration 2
+2023-08-18 11:56:20,602 - INFO: Diary Number: 240110500063
+2023-08-18 11:56:23,855 - INFO: Data from main table successfully saved to outputs/output.csv
+2023-08-18 11:56:24,147 - INFO: Clicked on status link.
+2023-08-18 11:56:30,765 - INFO: Data from details page saved to outputs/details.csv
+2023-08-18 11:56:34,399 - INFO: Order/Judgement table data (including links) saved to outputs/order_judgement.csv
+2023-08-18 11:56:34,403 - INFO: Iteration 2 completed in 18.89 seconds
+2023-08-18 11:56:36,754 - INFO: Total time taken for all iterations: 30.31 seconds

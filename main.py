@@ -29,7 +29,7 @@ if __name__ == "__main__":
             end_time = time.time()
             
             loop_time = end_time - start_time
-            logger.info("Iteration %d completed in %s seconds", count, loop_time)
+            logger.info("Iteration %d completed in %s seconds", count, round(loop_time, 2))
             count+=1
             total_time += loop_time
 
@@ -49,4 +49,4 @@ if __name__ == "__main__":
     except Exception as e:
         logger.error("An error occurred: %s", str(e))
 
-    logger.info("Total time taken for all iterations: %s seconds", total_time)
+    logger.info("Total time taken for all iterations: %s seconds", round(total_time,2))

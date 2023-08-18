@@ -91,7 +91,7 @@ def scrape_data_from_current_page(driver, config):
             click_pending_status(driver)
             
         else:
-            logger.info("No data found. Skipping current table.")
+            logger.info("No data found with this Diary Number.")
 
     except Exception as e:
         logger.error("\nError occured while scraping main table: %s", str(e))
