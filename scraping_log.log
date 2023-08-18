@@ -321,3 +321,15 @@ Error occured while scraping main table: Message: Cannot locate option with valu
 2023-08-18 10:04:24,765 - INFO: No data found. Skipping current table.
 2023-08-18 10:04:24,765 - INFO: Iteration 2 completed in 12.747935056686401 seconds
 2023-08-18 10:04:27,021 - INFO: Total time taken for all iterations: 30.4236056804657 seconds
+2023-08-18 11:20:31,045 - INFO: Starting iteration 1
+2023-08-18 11:20:36,104 - INFO: Diary Number: 240110500060
+2023-08-18 11:20:38,695 - INFO: No data found. Skipping current table.
+2023-08-18 11:20:38,695 - INFO: Iteration 1 completed in 7.649839878082275 seconds
+2023-08-18 11:20:38,698 - INFO: Starting iteration 2
+2023-08-18 11:20:41,910 - INFO: Diary Number: 240110500061
+2023-08-18 11:20:45,227 - INFO: Data from main table successfully saved to outputs/output.csv
+2023-08-18 11:20:45,536 - INFO: Clicked on status link.
+2023-08-18 11:20:52,534 - INFO: Data from details page saved to outputs/details.csv
+2023-08-18 11:20:52,536 - ERROR: Error occured while scraping main table: name 'scrape_order_judgment_table' is not defined
+2023-08-18 11:20:52,537 - INFO: Iteration 2 completed in 13.839369773864746 seconds
+2023-08-18 11:20:54,814 - INFO: Total time taken for all iterations: 21.48920965194702 seconds

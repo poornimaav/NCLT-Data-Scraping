@@ -14,11 +14,7 @@ def scrape_data_from_details_page(driver, details_page_url):
     logger = logging_utils.setup_logging('scraping_log.log')
     try:
         driver.get(details_page_url)
-        
-        # Wait for the details table to be present
-        # WebDriverWait(driver, 10).until(
-        #     EC.presence_of_element_located((By.CLASS_NAME, "table-bordered"))
-        # )
+    
 
         # Parse the page source with BeautifulSoup
         soup = BeautifulSoup(driver.page_source, "html.parser")
