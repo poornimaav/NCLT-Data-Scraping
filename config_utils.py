@@ -6,7 +6,7 @@ def read_config(filename):
     return config_data
 
 
-config_filename = "test1/config.json"
+config_filename = "config.json"
 config = read_config(config_filename)
 
 def write_config(config):

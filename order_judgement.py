@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import logging_utils
 
 def scrape_order_judgment_table(driver, filing_number):
-    logger = logging_utils.setup_logging('test1/scraping_log.log')
+    logger = logging_utils.setup_logging('scraping_log.log')
     try: 
         serial_number = 1   
         expand_button = driver.find_element(By.XPATH, '//*[@id="headingTwo"]/h2/button')
@@ -45,7 +45,7 @@ def scrape_order_judgment_table(driver, filing_number):
 
         df3 = pd.DataFrame(table_data)
 
-        csv_filename = "test1/outputs/order_judgement.csv"
+        csv_filename = "outputs/order_judgement.csv"
         # last_serial_number = 0
 
         if os.path.isfile(csv_filename) and os.path.getsize(csv_filename) > 0:

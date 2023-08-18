@@ -11,7 +11,7 @@ from details_table import scrape_data_from_details_page
 import traceback
 import logging_utils
 
-logger = logging_utils.setup_logging('test1/scraping_log.log')
+logger = logging_utils.setup_logging('scraping_log.log')
 
 def scrape_data_from_current_page(driver, config):
    
@@ -63,7 +63,7 @@ def scrape_data_from_current_page(driver, config):
 
         # Create a DataFrame from the extracted table data
         df1 = pd.DataFrame(table_data)
-        csv_filename = "test1/outputs/output.csv"
+        csv_filename = "outputs/output.csv"
 
         if len(headers) == len(df1.columns):
             df1.columns = headers

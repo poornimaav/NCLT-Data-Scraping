@@ -8,7 +8,7 @@ import time
 import logging_utils
 
 if __name__ == "__main__":
-    logger = logging_utils.setup_logging('test1/scraping_log.log')
+    logger = logging_utils.setup_logging('scraping_log.log')
     try:
         options = webdriver.ChromeOptions()
         options.add_experimental_option('excludeSwitches', ['enable-logging'])

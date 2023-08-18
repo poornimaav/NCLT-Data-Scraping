@@ -11,7 +11,7 @@ from order_judgement import scrape_order_judgment_table
 import logging_utils
 
 def scrape_data_from_details_page(driver, details_page_url):
-    logger = logging_utils.setup_logging('test1/scraping_log.log')
+    logger = logging_utils.setup_logging('scraping_log.log')
     try:
         driver.get(details_page_url)
         
@@ -43,7 +43,7 @@ def scrape_data_from_details_page(driver, details_page_url):
             
         filing_number = int(details_data.get("Filing Number", 0))
         df = pd.DataFrame([details_data]) 
-        csv_filename = "test1/outputs/details.csv"
+        csv_filename = "outputs/details.csv"
         serial_number = 1
 
         if os.path.isfile(csv_filename) and os.path.getsize(csv_filename) > 0:

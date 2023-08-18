@@ -309,3 +309,15 @@ Error occured while scraping main table: Message: Cannot locate option with valu
 2023-08-18 09:31:36,409 - INFO: Order/Judgement table data (including links) saved to test1/outputs/order_judgement.csv
 2023-08-18 09:31:36,409 - INFO: Iteration 2 completed in 18.514286518096924 seconds
 2023-08-18 09:31:38,823 - INFO: Total time taken for all iterations: 32.75471830368042 seconds
+2023-08-18 10:03:54,338 - INFO: Starting iteration 1
+2023-08-18 10:03:59,656 - INFO: Diary Number: 240110500059
+2023-08-18 10:04:02,721 - INFO: Data from main table successfully saved to outputs/output.csv
+2023-08-18 10:04:03,003 - INFO: Clicked on status link.
+2023-08-18 10:04:10,638 - INFO: Data from details page saved to outputs/details.csv
+2023-08-18 10:04:12,013 - INFO: Order/Judgement table data (including links) saved to outputs/order_judgement.csv
+2023-08-18 10:04:12,013 - INFO: Iteration 1 completed in 17.675670623779297 seconds
+2023-08-18 10:04:12,018 - INFO: Starting iteration 2
+2023-08-18 10:04:19,102 - INFO: Diary Number: 240110500060
+2023-08-18 10:04:24,765 - INFO: No data found. Skipping current table.
+2023-08-18 10:04:24,765 - INFO: Iteration 2 completed in 12.747935056686401 seconds
+2023-08-18 10:04:27,021 - INFO: Total time taken for all iterations: 30.4236056804657 seconds
